@@ -1,0 +1,11 @@
+namespace: driaan
+name: tailscale_tools
+version: 1.0.0
+readme: README.md
+authors:
+  - Driaan (@Driaan)
+description: Ansible plugins and modules for Tailscale integration.
+license: MIT
+tags:
+  - inventory
+  - tailscale
